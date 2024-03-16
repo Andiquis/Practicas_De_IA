@@ -1,0 +1,18 @@
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\bin\Debug\CapaLogica.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\bin\Debug\CapaLogica.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\bin\Debug\CapaDatos.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\bin\Debug\CapaDatos.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.pdb
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaLogica\bin\Debug\CapaLogica.dll
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaLogica\bin\Debug\CapaLogica.pdb
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaLogica\bin\Debug\CapaDatos.dll
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaLogica\bin\Debug\CapaDatos.pdb
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaLogica\obj\Debug\CapaLogica.dll
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaLogica\obj\Debug\CapaLogica.pdb

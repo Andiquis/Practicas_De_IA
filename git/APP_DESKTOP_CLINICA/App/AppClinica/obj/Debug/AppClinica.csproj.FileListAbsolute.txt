@@ -1,0 +1,34 @@
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\AppClinica.exe.config
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\AppClinica.exe
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\AppClinica.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.csproj.AssemblyReference.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.Form1.resources
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.Properties.Resources.resources
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.csproj.GenerateResource.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.csproj.CoreCompileInputs.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.exe
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\CapaPresentacion.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\CapaLogica.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\CapaDatos.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\CapaPresentacion.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\CapaLogica.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\CapaDatos.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.csproj.Up2Date
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\bin\Debug\AppClinica.exe.config
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\bin\Debug\AppClinica.exe
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\bin\Debug\AppClinica.pdb
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\bin\Debug\CapaPresentacion.dll
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\bin\Debug\CapaLogica.dll
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\bin\Debug\CapaDatos.dll
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\bin\Debug\CapaPresentacion.pdb
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\bin\Debug\CapaLogica.pdb
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\bin\Debug\CapaDatos.pdb
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\obj\Debug\AppClinica.csproj.AssemblyReference.cache
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\obj\Debug\AppClinica.Form1.resources
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\obj\Debug\AppClinica.Properties.Resources.resources
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\obj\Debug\AppClinica.csproj.GenerateResource.cache
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\obj\Debug\AppClinica.csproj.CoreCompileInputs.cache
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\obj\Debug\AppClinica.csproj.Up2Date
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\obj\Debug\AppClinica.exe
+I:\SEMESTRE 4\APP_DESKTOP\App\AppClinica\obj\Debug\AppClinica.pdb

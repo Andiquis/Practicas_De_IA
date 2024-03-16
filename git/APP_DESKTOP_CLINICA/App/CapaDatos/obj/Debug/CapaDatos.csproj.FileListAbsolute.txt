@@ -1,0 +1,12 @@
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\bin\Debug\CapaDatos.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.pdb
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaDatos\bin\Debug\CapaDatos.dll
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaDatos\bin\Debug\CapaDatos.pdb
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaDatos\obj\Debug\CapaDatos.dll
+I:\SEMESTRE 4\APP_DESKTOP\App\CapaDatos\obj\Debug\CapaDatos.pdb
